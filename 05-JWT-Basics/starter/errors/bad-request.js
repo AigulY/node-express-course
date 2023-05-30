@@ -7,4 +7,4 @@ class BadRequest extends CustomAPIError {
   }
 }
 
-module.exports = BadReqest;
+module.exports = BadRequest;
